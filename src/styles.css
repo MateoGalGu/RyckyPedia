@@ -4,6 +4,7 @@ body {
 }
 
 .navbar {
+    width: 100vw;
     background-image: url(https://w0.peakpx.com/wallpaper/890/952/HD-wallpaper-space-galaxy-planets-green-universe.jpg);
     background-size: cover;
 }
